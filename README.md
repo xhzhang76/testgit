@@ -1,3 +1,5 @@
+test no-ff
+
 test merge
 
 test dev
