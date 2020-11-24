@@ -1,6 +1,6 @@
-test merge
+git dev
 
-test dev
+test eric merge
 
 test git operation
 
